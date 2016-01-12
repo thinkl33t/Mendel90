@@ -7,6 +7,7 @@
 //
 // Nylon pillars
 //
+M3x6_pillar = [3, 6, 5.5, 6];
 M3x13_pillar = [3, 13, 6.5, 6];
 M3x20_pillar = [3, 20, 5.5, 7];
 

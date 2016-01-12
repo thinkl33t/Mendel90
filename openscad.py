@@ -9,5 +9,5 @@ def run(*args):
         print(arg, end=" ")
     print()
     log = open("openscad.log", "w")
-    subprocess.call(["openscad"] + list(args), stdout = log, stderr = log)
+    subprocess.call(["openscad-nightly"] + list(args), stdout = log, stderr = log)
     log.close()

@@ -20,6 +20,7 @@
 //
 //         [ Code, Description, Thickness, Color, Soft]
 //
+PLY6     = [ "MD", "Plywood sheet",        6, [1.0, 0.84, 0.6, 1    ], false];    // ~1/4"
 MDF6     = [ "MD", "MDF sheet",            6, [0.4, 0.4, 0.2, 1    ], true];    // ~1/4"
 MDF10    = [ "MD", "MDF sheet",           10, [0.4, 0.4, 0.2, 1    ], true];    // ~3/8"
 MDF12    = [ "MD", "MDF sheet",           12, [0.4, 0.4, 0.2, 1    ], true];    // ~1/2"
